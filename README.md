@@ -23,6 +23,6 @@ au!revive [@user]
 > //Command is used to revive a player.
 
 🎫 Additional Comments
-Have any questions about the bot, errors and more join the [support](https://discord.gg/ujJH8P4Uzj) server!
+Have any questions about the bot, errors and more join the [support](https://discord.gg/yHYXJ3MGyu) server!
 
 ©PRITu || Dev
